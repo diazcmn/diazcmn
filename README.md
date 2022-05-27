@@ -1,4 +1,4 @@
-
+echo('Hi! 👋')
 
 ![code](https://user-images.githubusercontent.com/87836967/170794178-9accf2bd-40fd-4700-b5ab-716745124dc5.png)
 ![image](https://user-images.githubusercontent.com/87836967/170794383-6d809a9d-0fc9-4f1b-a454-93931dd991e1.png)
