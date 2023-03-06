@@ -30,7 +30,7 @@ Javascript, HTML, CSS, Bootstrap, Java, SQL, Wordpress.
 
 ## Own project
 
-![Logo]![logo](https://user-images.githubusercontent.com/87836967/223199206-66b130d6-fc60-4185-a455-f4ad341e931c.png)
+![logo](https://user-images.githubusercontent.com/87836967/223199206-66b130d6-fc60-4185-a455-f4ad341e931c.png)
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://diazcmn.github.io/mywebsite/)
 
