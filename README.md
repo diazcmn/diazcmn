@@ -20,7 +20,7 @@ Javascript, HTML, CSS, Bootstrap, Java, SQL, Wordpress.
 - constancy
 
 
-## Other Common Github Profile Sections
+## Other 
 
 👩‍💻 I'm currently working on Futures a collaborative project from ISPC.
 
