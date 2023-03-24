@@ -9,7 +9,7 @@
 I'm a full stack developer...
 
 
-## 🛠 Hard Skills
+## 🛠 Technical Skills
 Javascript, HTML, CSS, Bootstrap, Java, SQL, Wordpress. 
 
 ## Soft Skills
