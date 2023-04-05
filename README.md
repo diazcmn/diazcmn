@@ -2,7 +2,7 @@
 
 
 
-# Hi, I'm ***Cecilia!  👋
+# Hi, I'm Cecilia!  👋
 
 
 ## 🚀 About Me
@@ -10,11 +10,17 @@
 My profile is oriented to Fullstack web development, during this time I dedicated myself to polishing my technical and soft skills. I always try to have a decisive look and constructive criticism when faced with problems, I like to work as a team making the workplace a good development environment where we can all work at ease, I try to innovate and propose efficient and practical ideas, I also have the ability and training to work individually.
 As a programmer I always seek to keep up to date with new technologies, my interest is always to continue improving, so I keep myself in constant training.
 
-##I hope we will contact you soon!
+I hope we will contact you soon!
 
 
 ## 🛠 Technical Skills
 
+- HTML5 & CSS3
+- Bootstrap
+- JavaScript 
+- Java
+- Python
+- MySQL
 
 ## Soft Skills
 
@@ -26,19 +32,14 @@ As a programmer I always seek to keep up to date with new technologies, my inter
 
 ## Other 
 
+🌱I'm currently in the second year of the web development and digital applications career.
+
 👩‍💻 I'm currently working on Futures a collaborative project from ISPC.
 
 🧠 I'm currently learning Java.
 
-🌱I'm currently in the second year of the web development and digital applications career.
-
-
-
-
 
 ## Own project
-
-![logo](https://user-images.githubusercontent.com/87836967/223199206-66b130d6-fc60-4185-a455-f4ad341e931c.png)
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://diazcmn.github.io/mywebsite/)
 
