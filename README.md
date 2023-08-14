@@ -34,9 +34,9 @@ I hope we will contact you soon!
 
 🌱I'm currently in the second year of the web development and digital applications career.
 
-👩‍💻 I'm currently working on Futures a collaborative project from ISPC.
+👩‍💻 I'm currently working on a collaborative projects from ISPC.
 
-🧠 I'm currently learning Java.
+🧠 I'm currently learning Angular
 
 
 ## Own project
@@ -50,6 +50,7 @@ https://ceciliamndiaz.000webhostapp.com/
 ## Collaborative projects
 
 http://w300219.ferozo.com/index.html
+https://christmorales.github.io/rent-cars.github.io/Proyecto%20Integrador/Vistas/principal.html
 
 ## 🔗 Socials Links 
 
@@ -62,4 +63,4 @@ Contact me : cecilia.mndiaz@gmail.com
 
 
 
-Curriculum Vitae: [CV-2023.pdf](https://github.com/diazcmn/diazcmn/files/10889785/CV-2023.pdf)
+Curriculum Vitae: [cv-web.pdf](https://github.com/diazcmn/diazcmn/files/12337641/cv-web.pdf)
