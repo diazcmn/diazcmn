@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-My profile is oriented to Fullstack web development, during this time I dedicated myself to polishing my technical and soft skills. I always try to have a decisive look and constructive criticism when faced with problems, I like to work as a team making the workplace a good development environment where we can all work at ease, I try to innovate and propose efficient and practical ideas, I also have the ability and training to work individually.
+My profile is oriented to Frontend web development, during this time I dedicated myself to polishing my technical and soft skills. I always try to have a decisive look and constructive criticism when faced with problems, I like to work as a team making the workplace a good development environment where we can all work at ease, I try to innovate and propose efficient and practical ideas, I also have the ability and training to work individually.
 As a programmer I always seek to keep up to date with new technologies, my interest is always to continue improving, so I keep myself in constant training.
 
 I hope we will contact you soon!
